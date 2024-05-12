@@ -521,7 +521,9 @@ Puedes controlar esta función desde Ajustes &gt; Contraseñas y seguridad &gt; 
     <string name="permission_write_device_store">Guardar elementos en el almacenamiento del dispositivo</string>
     <string name="permission_write_device_store_summary">Para almacenar en caché los archivos de configuración de origen descargados.</string>
     <string name="permission_xunlei_introduction">Para iniciar sesión y gestionar cuentas del sistema con el fin de proporcionar servicios Xunlei</string>
-    <string name="phone_service_introduction">电话服务是一项基础通讯服务，为通话、短信、上网等功能提供底层通讯能力支撑。</string>
+    <string name="phone_introduction">Puedes usar esta aplicación para encontrar y neutralizar virus, bloquear llamadas y mensajes, optimizar el rendimiento para juegos, ahorrar batería, así como gestionar aplicaciones, permisos, uso de datos y más.</string>
+    <string name="phone_name_security">Seguridad</string>
+    <string name="phone_service_introduction">La telefonía es un servicio básico que permite a tu dispositivo realizar llamadas, enviar y recibir mensajes, y conectarse a la red.</string>
     <string name="pm">PM</string>
     <string name="poco_agree_terms_other">(Incluyendo la Política de Privacidad del Launcher POCO y el Acuerdo de Usuario)</string>
     <string name="poco_launcher_privacy_policy">Política de Privacidad del launcher POCO</string>
@@ -570,7 +572,7 @@ Puedes controlar esta función desde Ajustes &gt; Contraseñas y seguridad &gt; 
     <string name="saturday_shortest">Sáb</string>
     <string name="screen_recording_introduction">"Esta aplicación te permite registrar lo que está ocurriendo en tu pantalla."</string>
     <string name="search_menu_title">Buscar</string>
-    <string name="security_introduction">Puedes usar esta aplicación para limpiar la basura de tu dispositivo, encontrar y neutralizar virus, optimizar el rendimiento de juegos, ahorrar batería, administrar aplicaciones, permisos y más.</string>
+    <string name="security_introduction">Puedes usar esta aplicación para encontrar y neutralizar virus, bloquear llamadas y mensajes, optimizar el rendimiento para juegos, ahorrar batería, así como gestionar aplicaciones, permisos, uso de datos y más.</string>
     <string name="security_mobile_account_introduction">Para iniciar sesión y gestionar cuentas del sistema</string>
     <string name="select_font_modele_tips">Siempre puedes seleccionar una nueva fuente en Temas</string>
     <string name="send">Enviar</string>
@@ -695,6 +697,7 @@ Puedes controlar esta función desde Ajustes &gt; Contraseñas y seguridad &gt; 
     <string name="terms_of_use_label_use_location_and_network_global">Antes de usar el sistema, debes leer y aceptar nuestro Acuerdo de Usuario y Política de Privacidad. Protegeremos tu información personal de acuerdo con las leyes, regulaciones y políticas de privacidad pertinentes. Cuando tu dispositivo esté activado, los siguientes servicios se conectarán a la red y accederán a tu ubicación:</string>
     <string name="terms_of_use_label_use_network_china">Before using the system, you must read and agree to our User Agreement and Privacy Policy. We will protect your personal information in accordance with the relevant laws, regulations, and privacy policies. When your device is activated, the following services will connect to the network:</string>
     <string name="terms_of_use_label_wallpaper">Fondo de pantalla</string>
+    <string name="terms_of_use_label_webview">Android System WebView</string>
     <string name="terms_of_use_lable_default_input_method_facemoji">"
 
 Debes aceptar la Política de Privacidad de Facemoji antes de usar esta función."</string>

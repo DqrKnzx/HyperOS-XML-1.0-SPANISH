@@ -620,9 +620,9 @@ Motivo: \"%s\""</string>
     <string name="groups_list_empty">Sin grupos</string>
     <string name="hide_app_description_content">"Contactos es una aplicación del sistema. Aún podrá usarlo a través de la aplicación Teléfono después de eliminar el acceso directo de la pantalla de inicio."</string>
     <string name="hide_app_description_title">¿Eliminar \"Contactos\" de la pantalla de inicio?</string>
-    <string name="hint_distance">Mantenga los dos dispositivos cerca unos de otros durante el proceso de importación para asegurarse de que permanecen conectados.</string>
+    <string name="hint_distance" />
     <string name="hint_findContacts">Buscar contactos</string>
-    <string name="hint_more_contact">Si la importación crea contactos duplicados, utilice la función \"Fusionar contactos duplicados\".</string>
+    <string name="hint_more_contact">Fusionar contactos duplicados</string>
     <string name="hybrid_check_network">Ajustes de red</string>
     <string name="hybrid_data_error">Ha ocurrido un error</string>
     <string name="hybrid_locating_fail">"No se pudo determinar su ubicación"</string>

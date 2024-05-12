@@ -4,12 +4,14 @@
     <string name="PRD_summary_4">Apagar el Wi-Fi o cambiar las redes Wi-Fi durante el proceso de transferencia puede causar que el proceso de transferencia falle.</string>
     <string name="PRD_summary_4_china">Apagar el Wi-Fi o cambiar las redes Wi-Fi durante el proceso de transferencia puede causar que el proceso de transferencia falle.</string>
     <string name="PRD_summary_5">Las transferencias de alta velocidad pueden hacer que tu dispositivo se vuelva más caliente de lo normal. Tenga la seguridad de que tu dispositivo se enfriará cuando termine la transferencia.</string>
+    <string name="PRD_summary_6">"Los álbumes, notas y archivos privados no pueden transferirse desde el dispositivo antiguo. Elimínelos de las carpetas privadas antes de comenzar la transferencia."</string>
     <string name="PRD_summary_tablet_1">Durante la transferencia, todos los datos de estas aplicaciones (incluyendo historial de chat) serán sobrescritos.</string>
     <string name="PRD_title_1">%1$d. Ya existen datos de la aplicación en el nuevo dispositivo para las siguientes aplicaciones:</string>
     <string name="PRD_title_2">WeChat</string>
     <string name="PRD_title_3">QQ</string>
     <string name="PRD_title_4">%1$d. Opere su dispositivo con cuidado</string>
     <string name="PRD_title_5">%1$d. Tu dispositivo se encenderá durante la transferencia</string>
+    <string name="PRD_title_6">"Los elementos privados no pueden ser transferidos"</string>
     <string name="PRD_title_tablet_1">%1$d. Ya existen datos de la aplicación en el nuevo dispositivo para las siguientes aplicaciones:</string>
     <string name="PRD_title_tablet_4">%1$d. Opere su dispositivo con cuidado</string>
     <string name="PRD_title_tablet_5">%1$d. Tu dispositivo se encenderá durante la transferencia</string>
@@ -870,6 +872,7 @@ en su iPhone"</string>
     <string name="uncollected">No recopilado</string>
     <string name="unselected">No seleccionado</string>
     <string name="update_later">Ahora no</string>
+    <string name="update_now">Instalar</string>
     <string name="update_now">Actualizar ahora</string>
     <string name="use_purpose">Finalidad del uso</string>
     <string name="use_purpose_description">"Para conectar al punto de acceso del dispositivo nuevo"</string>
