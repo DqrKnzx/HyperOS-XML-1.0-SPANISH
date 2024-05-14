@@ -1862,7 +1862,6 @@ Escuchar sonidos fuertes durante mucho tiempo puede dañar los oídos."</string>
     <string name="ssl_ca_cert_warning">{count, plural, =1 {Autoridad de certificación} other {Autoridades de certificación} }</string>
     <string name="ssl_certificate">Certificado de seguridad</string>
     <string name="ssl_certificate_is_valid">Este certificado es válido.</string>
-    <string name="status_bar_mute">status_bar_mute</string>
     <string name="status_bar_screen_record">Registro de pantalla</string>
     <string name="status_communication_speaker_summary">Una llamada manos libres está en progreso. El audio se reproducirá a través del altavoz cuando los auriculares estén conectados.</string>
     <string name="status_communication_summary">Hay una llamada en curso. Solo puedes ajustar el volumen ahora.</string>

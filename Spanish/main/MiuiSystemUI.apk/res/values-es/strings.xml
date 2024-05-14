@@ -1569,7 +1569,6 @@ Si tienes preguntas, contacta con %2$s."</string>
     <string name="quick_settings_sync_label">Sincronizar</string>
     <string name="quick_settings_sync_state_change_message_off">La sincronización está desactivada</string>
     <string name="quick_settings_sync_state_change_message_on">La sincronización está activada</string>
-    <string name="quick_settings_tiles_stock">internet,bt,flashlight,dnd,alarm,avión,controles,cartera,rotación,batería,grabador,mictoggl,cameratoggle,hotspot,inverssion,ahorrador,trabajo,noche,reversión,reduce_brightness,qr_code_scanner,onehanded,color_correction,dream,font_scaling</string>
     <string name="quick_settings_ui_mode_night_label">Tema oscuro</string>
     <string name="quick_settings_vibrate_label">Vibrar</string>
     <string name="quick_settings_vibrate_state_change_message_off">Vibración desactivada</string>

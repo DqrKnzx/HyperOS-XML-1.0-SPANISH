@@ -105,7 +105,6 @@
     <string name="app_disable_description_content">Mi Music es una aplicación del sistema. Si la desactivas, esto puede afectar al uso de otras aplicaciones. ¿Desactivar de todos modos?</string>
     <string name="app_disable_description_title">¿Desactivar aplicación del sistema?</string>
     <string name="app_label">Descargas</string>
-    <string name="app_name">podcast</string>
     <string name="app_notify_dialog_btn_desc">Ajustes</string>
     <string name="app_notify_dialog_check_desc">"Activar el widget sombreado de notificaciones, pero no permitir notificaciones permanentes"</string>
     <string name="app_notify_dialog_path">Ajustes &gt; Notificaciones &amp; barra de estado &gt; notificaciones &gt; Música</string>

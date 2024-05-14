@@ -1862,7 +1862,6 @@ Escuchar a un alto volumen durante largos períodos puede dañar tu audición."<
     <string name="ssl_ca_cert_warning">{count, plural, =1 {Autoridad de certificación instalada} other {autoridades de certificación instaladas} }</string>
     <string name="ssl_certificate">Certificado de seguridad</string>
     <string name="ssl_certificate_is_valid">Este certificado es válido.</string>
-    <string name="status_bar_mute">barra de silencio</string>
     <string name="status_bar_screen_record">Registro de pantalla</string>
     <string name="status_communication_speaker_summary">Una llamada manos libres está en progreso. El audio se reproducirá a través del altavoz cuando los auriculares estén conectados.</string>
     <string name="status_communication_summary">Una llamada está en progreso. Solo puede ajustar el volumen de la llamada ahora.</string>

@@ -130,7 +130,6 @@
     <string name="evening">Por la tarde</string>
     <string name="expand_button_title">Avanzado</string>
     <string name="extract_file">Descomprimiendo archivo…</string>
-    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="file_exist_hint">Este archivo ya existe</string>
     <string name="file_picker">Elige una ubicación</string>
     <string name="file_size">Tamaño</string>

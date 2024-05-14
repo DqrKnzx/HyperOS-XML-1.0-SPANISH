@@ -1054,7 +1054,6 @@ disponibles"</string>
     <string name="home_menu_camera">Mostrar solo elementos de la cámara</string>
     <string name="home_menu_cleaner">Liberar espacio</string>
     <string name="home_menu_collage">Collage</string>
-    <string name="home_menu_image_printing">@string/assistant_page_image_printing</string>
     <string name="home_menu_macarons">Viñeta mágica</string>
     <string name="home_menu_magic_matting">Recorte</string>
     <string name="home_menu_photo_movie">Clip</string>
