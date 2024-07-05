@@ -16,19 +16,19 @@
         <item>Privacidad e interconectividad</item>
     </string-array>
     <string-array name="settings_search_connection_service">
-        <item>Servicios de interconectividad</item>
-        <item>Servicios de interconexión/interconectividad</item>
-        <item>Servicios de interconectividad</item>
+        <item>Interconectividad de Xiaomi</item>
+        <item>Interconectividad/Xiaomi interconectividad</item>
+        <item>Servicios de interconectividad de Xiaomi, interconectividad de Xiaomi</item>
     </string-array>
     <string-array name="settings_search_relay_app">
         <item>Aplicación handoff</item>
-        <item>Interconectividad/Aplicación de handoff</item>
+        <item>Interconectividad/Aplicació</item>
         <item>Transferir aplicaciones, handoff, transferir</item>
     </string-array>
     <string-array name="settings_search_relay_call">
-        <item>Llamadas</item>
-        <item>Interconexión/Llamadas</item>
-        <item>Llamadas</item>
+        <item>Llamada sincronizada</item>
+        <item>Interconectividad/sincronización de llamadas</item>
+        <item>Llamada de sincronización, llamadas de servicio cruzado, transferencia de llamadas, llamadas</item>
     </string-array>
     <string-array name="settings_search_relay_network">
         <item>Asistencia de red</item>
