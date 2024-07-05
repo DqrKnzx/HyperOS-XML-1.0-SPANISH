@@ -3035,7 +3035,7 @@ Envía este código al técnico."</string>
     <string name="display_notification_icon_5">%d iconos</string>
     <string name="display_prompt_confirm">Entendido</string>
     <string name="display_settings">Pantalla</string>
-    <string name="display_settings_new">Pantalla y brillo</string>
+    <string name="display_settings_new">Pantalla &amp; brillo</string>
     <string name="display_settings_title">Pantalla</string>
     <string name="display_vr_pref_low_persistence">Reducir desenfoque (recomendado)</string>
     <string name="display_vr_pref_off">Reducir parpadeo</string>

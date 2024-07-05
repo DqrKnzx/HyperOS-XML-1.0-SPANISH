@@ -26,7 +26,7 @@
         <item>Transferir aplicaciones, handoff, transferir</item>
     </string-array>
     <string-array name="settings_search_relay_call">
-        <item>Llamada sincronizada/item>
+        <item>Llamada sincronizada</item>
         <item>Interconectividad/sincronización de llamadas</item>
         <item>Llamada de sincronización, llamadas de servicio cruzado, transferencia de llamadas, llamadas</item>
     </string-array>
