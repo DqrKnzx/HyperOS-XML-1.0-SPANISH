@@ -277,7 +277,7 @@ El LPR de un año y cinco años se cotizarán el día 20 de cada mes (pueden pro
     <string name="mulDesc">multiplicar</string>
     <string name="n_a">N/D</string>
     <string name="name_cgst">CGST/SGST: 2.5</string>
-    <string name="name_discount">Descuento (% de descuento)</string>
+    <string name="name_discount">Descuento (%s)</string>
     <string name="name_original">Precio original</string>
     <string name="name_price">Precio final</string>
     <string name="name_save">"Ahorras "</string>
