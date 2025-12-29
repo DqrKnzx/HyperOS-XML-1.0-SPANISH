@@ -18,29 +18,29 @@
         <item>Sincronice sus contactos, mensajes, notas, calendario y más</item>
         <item>Respaldar aplicaciones, diseño de la pantalla de inicio y fondo de pantalla</item>
         <item>Respalde los ajustes importantes, incluidas la conexión Wi-Fi y la pantalla</item>
-        <item>"Bloquee su dispositivo de manera remota en caso de pérdida"</item>
+        <item>Bloquee su dispositivo de manera remota en caso de pérdida</item>
     </string-array>
     <string-array name="micloud_entrance_subtitleArray_china">
-        <item>Sync your contacts, messages, notes, calendar, and more</item>
-        <item>Back up apps, Home screen layout, and wallpaper</item>
-        <item>Back up important settings, including WLAN and display</item>
-        <item>"Lock your device remotely if it's lost"</item>
+        <item>Sincronice sus contactos, mensajes, notas, calendario y más</item>
+        <item>Respaldar aplicaciones, diseño de la pantalla de inicio y fondo de pantalla</item>
+        <item>Copia de seguridad de las configuraciones importantes, incluida la conexión WLAN y la pantalla</item>
+        <item>Bloquee su dispositivo de manera remota en caso de pérdida</item>
     </string-array>
     <string-array name="micloud_entrance_subtitleArray_china_v2">
-        <item>Sync your contacts, messages, notes, calendar, and more</item>
-        <item>Back up apps, Home screen layout, and wallpaper</item>
-        <item>Back up important settings, including WLAN and display</item>
-        <item>"Lock your device remotely if it's lost"</item>
+        <item>Sincronice sus contactos, mensajes, notas, calendario y más</item>
+        <item>Respaldar aplicaciones, diseño de la pantalla de inicio y fondo de pantalla</item>
+        <item>Copia de seguridad de las configuraciones importantes, incluida la conexión WLAN y la pantalla</item>
+        <item>Bloquee su dispositivo de manera remota en caso de pérdida</item>
     </string-array>
     <string-array name="micloud_entrance_subtitleArray_pad">
-        <item>Sincroniza tus fotos, notas, grabaciones y más</item>
-        <item>"Bloquea tu dispositivo de forma remota si se pierde"</item>
+        <item>Sincronice sus fotos, notas, grabaciones y mucho más</item>
+        <item>Bloquee su dispositivo de manera remota en caso de pérdida</item>
     </string-array>
     <string-array name="micloud_entrance_subtitleArray_v2">
         <item>Sincronice sus contactos, mensajes, notas, calendario y más</item>
         <item>Respaldar aplicaciones, diseño de la pantalla de inicio y fondo de pantalla</item>
         <item>Respalde las configuraciones importantes, incluidas la conexión Wi-Fi y la pantalla</item>
-        <item>"Bloquee su dispositivo de manera remota en caso de pérdida"</item>
+        <item>Bloquee su dispositivo de manera remota en caso de pérdida</item>
     </string-array>
     <string-array name="micloud_entrance_titleArray">
         <item>Sincronizar datos de la aplicación</item>
@@ -53,9 +53,9 @@
         <item>Encontrar dispositivo</item>
     </string-array>
     <string-array name="privacy_dialog_finddevice_runtime_perm_desc_new">
-        <item>Para localizar tu dispositivo y cambiar al modo Perdido</item>
-        <item>"Para localizar este dispositivo cuando no está conectado a Internet"</item>
-        <item>"Para acceder al número de teléfono para localizar este dispositivo cuando no está conectado a Internet"</item>
+        <item>Para localizar su dispositivo y cambiar al Modo perdido</item>
+        <item>Para localizar este dispositivo cuando no está conectado a Internet</item>
+        <item>Para acceder al número de teléfono para localizar este dispositivo cuando no está conectado a Internet</item>
     </string-array>
     <string-array name="settings_search_backup_manage">
         <item>Respaldos</item>
@@ -89,12 +89,12 @@
     </string-array>
     <string-array name="settings_search_find_pad">
         <item>Encontrar dispositivo</item>
-        <item>"Eliminar datos y bloquear su dispositivo si lo pierde"</item>
+        <item>Eliminar datos y bloquear su dispositivo si lo pierde</item>
         <item>Encontrar dispositivo;Perdido;Nube;Sincronizar;Servicios de la nube;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_find_phone">
         <item>Encontrar dispositivo</item>
-        <item>"Eliminar datos y bloquear su dispositivo si lo pierde"</item>
+        <item>Eliminar datos y bloquear su dispositivo si lo pierde</item>
         <item>Encontrar dispositivo;Perdido;Nube;Sincronizar;Servicios de la nube;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_gallery">
@@ -134,8 +134,8 @@
     </string-array>
     <string-array name="settings_search_recycle_bin_pad">
         <item>Elementos eliminados en Xiaomi Cloud</item>
-        <item>Restaura fotos, notas y más</item>
-        <item>Papelera; Elementos eliminados; Papelera; Restaurar; Servicios en la nube; Xiaomi Cloud</item>
+        <item>Restaure fotos, notas y mucho más</item>
+        <item>Basura;Elementos eliminados;Papelera;Restaurar;Servicios de la nube;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_restore_device">
         <item>Restaurar elementos de Xiaomi Cloud</item>
@@ -148,9 +148,9 @@
         <item>Seguridad;Nube;Xiaomi Cloud;Sincronizar;Servicios de la nube</item>
     </string-array>
     <string-array name="settings_search_security_pad">
-        <item>Sincronización de seguridad en la nube</item>
+        <item>Sincronización en la nube de Seguridad</item>
         <item>Activar sincronización</item>
-        <item>Seguridad; Nube; Xiaomi Cloud; Sincronización; Servicios en la nube</item>
+        <item>Seguridad;Nube;Xiaomi Cloud;Sincronizar;Servicios de la nube</item>
     </string-array>
     <string-array name="settings_search_sms">
         <item>Sincronizar mensajes con Xiaomi Cloud</item>
@@ -168,9 +168,9 @@
         <item>Almacenamiento insuficiente;Membresía;Almacenamiento;Espacio de almacenamiento;Nube;Sincronizar;Servicios de la nube;Xiaomi Cloud;Basura;Elementos eliminados;Seguridad</item>
     </string-array>
     <string-array name="settings_search_sync_manage_pad">
-        <item>Xiaomi Cloud. Todos los servicios de Mi en un solo lugar.</item>
+        <item>Xiaomi Cloud. Todos los servicios en un lugar.</item>
         <item>Acceda a sus fotos, notas y dispositivos desde cualquier lugar</item>
-        <item>Almacenamiento insuficiente; Membresía; Almacenamiento; Espacio de almacenamiento; Nube; Sincronización; Servicios en la nube; Xiaomi Cloud; Papelera; Elementos eliminados; Seguridad</item>
+        <item>Almacenamiento insuficiente;Membresía;Almacenamiento;Espacio de almacenamiento;Nube;Sincronizar;Servicios de la nube;Xiaomi Cloud;Basura;Elementos eliminados;Seguridad</item>
     </string-array>
     <string-array name="settings_search_wlan">
         <item>Sincronizar ajustes de Wi-Fi con Xiaomi Cloud</item>
@@ -178,8 +178,8 @@
         <item>WLAN;wifi;Wi-Fi;Nube;Sincronizar;Servicios de la nube;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_wlan_china">
-        <item>Sync WLAN settings with Xiaomi Cloud</item>
+        <item>Sincronizar ajustes de WLAN con Xiaomi Cloud</item>
         <item>Activar sincronización</item>
-        <item>WLAN;wifi;Wi-Fi;Cloud;Sync;Cloud services;Xiaomi Cloud</item>
+        <item>WLAN;wifi;Wi-Fi;Nube;Sincronizar;Servicios de la nube; Xiaomi Cloud</item>
     </string-array>
 </resources>

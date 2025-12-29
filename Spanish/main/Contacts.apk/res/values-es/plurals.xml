@@ -1,56 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="a_hour_ago">
-        <item quantity="one">Hace 1 hora</item>
         <item quantity="other">Hace 1 hora</item>
+        <item quantity="one">Hace 1 hora</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="one">Hace %d hora</item>
         <item quantity="other">Hace %d horas</item>
+        <item quantity="one">Hace %d hora</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
-        <item quantity="one">Hace media hora</item>
         <item quantity="other">Hace media hora</item>
+        <item quantity="one">Hace media hora</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="one">En %d hora</item>
         <item quantity="other">En %d horas</item>
+        <item quantity="one">En %d hora</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
-        <item quantity="one">En media hora</item>
         <item quantity="other">En media hora</item>
+        <item quantity="one">En media hora</item>
     </plurals>
     <plurals name="abbrev_in_less_than_one_minute">
-        <item quantity="one">Inmediatamente</item>
         <item quantity="other">Inmediatamente</item>
+        <item quantity="one">Inmediatamente</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">En %d minutos</item>
-        <item quantity="one">En %d minuto</item>
+        <item quantity="other">En %d min</item>
+        <item quantity="one">En %d min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
-        <item quantity="one">Ahora mismo</item>
-        <item quantity="other">Ahora mismo</item>
+        <item quantity="other">Justo ahora</item>
+        <item quantity="one">Justo ahora</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">Hace %d minutos</item>
-        <item quantity="one">Hace %d minuto</item>
+        <item quantity="other">Hace %d min</item>
+        <item quantity="one">Hace %d min</item>
     </plurals>
     <plurals name="batch_delete_msg">
         <item quantity="other">¿Eliminar %1$d contactos?</item>
         <item quantity="one">¿Eliminar %1$d contacto?</item>
-    </plurals>
-    <plurals name="bh_day">
-        <item quantity="other">" días"</item>
-        <item quantity="one">" día"</item>
-    </plurals>
-    <plurals name="bh_hour">
-        <item quantity="other">" h"</item>
-        <item quantity="one">" h"</item>
-    </plurals>
-    <plurals name="bh_minute">
-        <item quantity="other">" min"</item>
-        <item quantity="one">" min"</item>
     </plurals>
     <plurals name="btn_delete_multi_contacts">
         <item quantity="other">Eliminar %1$d contactos</item>
@@ -61,8 +49,8 @@
         <item quantity="one">Sonó %1$d vez</item>
     </plurals>
     <plurals name="cloud_state_unsynced_count">
-        <item quantity="other">"%1$d contactos o fotos no se han sincronizado"</item>
-        <item quantity="one">"%1$d contacto o foto no se ha sincronizado"</item>
+        <item quantity="other">%1$d contactos o fotos no se han sincronizado</item>
+        <item quantity="one">%1$d contacto o foto no se ha sincronizado</item>
     </plurals>
     <plurals name="confirm_delete_sim_entry_miui">
         <item quantity="other">¿Eliminar %1$d contactos de la tarjeta SIM?</item>
@@ -77,8 +65,8 @@
         <item quantity="one">%d contacto eliminado permanentemente</item>
     </plurals>
     <plurals name="contacts_trash_restore_respond">
-        <item quantity="other">%d contactos restaurados</item>
-        <item quantity="one">%d contacto restaurado</item>
+        <item quantity="other">%d contactos restaurados con éxito</item>
+        <item quantity="one">%d contacto restaurado con éxito</item>
     </plurals>
     <plurals name="device_import_done_toast">
         <item quantity="other">%1$d contactos importados</item>
@@ -117,12 +105,12 @@
         <item quantity="one">%1$d número</item>
     </plurals>
     <plurals name="group_sms_error_message">
-        <item quantity="other">"El SMS no puede tener más de %d destinatarios."</item>
-        <item quantity="one">"El SMS no puede tener más de %d destinatario."</item>
+        <item quantity="other">El SMS no puede tener más de %d destinatarios.</item>
+        <item quantity="one">El SMS no puede tener más de %d destinatario.</item>
     </plurals>
     <plurals name="half_hour_ago">
-        <item quantity="one">Hace media hora</item>
         <item quantity="other">Hace media hora</item>
+        <item quantity="one">Hace media hora</item>
     </plurals>
     <plurals name="hint_search_contacts">
         <item quantity="other">%1$d contactos</item>
@@ -137,24 +125,28 @@
         <item quantity="one">%1$d número</item>
     </plurals>
     <plurals name="in_a_hour">
-        <item quantity="one">En 1 hora</item>
         <item quantity="other">En 1 hora</item>
+        <item quantity="one">En 1 hora</item>
     </plurals>
     <plurals name="in_half_hour">
-        <item quantity="one">En media hora</item>
         <item quantity="other">En media hora</item>
+        <item quantity="one">En media hora</item>
     </plurals>
     <plurals name="in_less_than_one_minute">
-        <item quantity="one">Inmediatamente</item>
         <item quantity="other">Inmediatamente</item>
+        <item quantity="one">Inmediatamente</item>
     </plurals>
     <plurals name="in_num_minutes">
         <item quantity="other">en %d minutos</item>
         <item quantity="one">en 1 minuto</item>
     </plurals>
+    <plurals name="label_duplicate_count_plurals">
+        <item quantity="other">(%1$d)</item>
+        <item quantity="one">(%1$d)</item>
+    </plurals>
     <plurals name="less_than_one_minute_ago">
-        <item quantity="one">Ahora mismo</item>
-        <item quantity="other">Ahora mismo</item>
+        <item quantity="other">Justo ahora</item>
+        <item quantity="one">Justo ahora</item>
     </plurals>
     <plurals name="listTotalAllContacts">
         <item quantity="other">%d contactos</item>
@@ -209,8 +201,8 @@
         <item quantity="one">%d encontrado</item>
     </plurals>
     <plurals name="select_all_exceed_plurals">
-        <item quantity="other">"Selecciona no más de %1$d, no puedes seleccionar todos"</item>
-        <item quantity="one">"Selecciona no más de %1$d, no puedes seleccionar todos"</item>
+        <item quantity="other">Selecciona no más de %1$d, no puedes seleccionar todos</item>
+        <item quantity="one">Selecciona no más de %1$d, no puedes seleccionar todos</item>
     </plurals>
     <plurals name="select_exceed_plurals">
         <item quantity="other">Selecciona no más de %1$d</item>

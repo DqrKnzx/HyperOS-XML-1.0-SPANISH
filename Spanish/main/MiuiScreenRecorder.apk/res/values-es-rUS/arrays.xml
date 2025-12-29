@@ -11,21 +11,20 @@
         <item>4 Mbps</item>
         <item>1 Mbps</item>
     </string-array>
-    <string-array name="screenrecorder_settings_frames">
-        <item>24 FPS</item>
-        <item>30 FPS</item>
-        <item>48 FPS</item>
-        <item>60 FPS</item>
-    </string-array>
     <string-array name="screenrecorder_settings_orientation">
         <item>Automática</item>
         <item>Retrato</item>
-        <item>Paisaje</item>
+        <item>Panorámico</item>
     </string-array>
     <string-array name="screenrecorder_settings_resolution">
         <item>1080p</item>
         <item>720p</item>
         <item>480p</item>
+    </string-array>
+    <string-array name="screenrecorder_settings_resolution_values">
+        <item>1080</item>
+        <item>720</item>
+        <item>480</item>
     </string-array>
     <string-array name="screenrecorder_settings_sound">
         <item>Silenciar</item>
@@ -33,7 +32,7 @@
         <item>Sonidos del sistema</item>
     </string-array>
     <string-array name="screenrecorder_settings_sound_native">
-        <item>Ninguna</item>
+        <item>Ninguno</item>
         <item>Micrófono</item>
         <item>Sistema</item>
         <item>Ambos</item>

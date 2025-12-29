@@ -29,88 +29,118 @@
     <string name="abc_toolbar_collapse_description">Contraer</string>
     <string name="afternoon">Tarde</string>
     <string name="am">AM</string>
-    <string name="app_name">Fondo de pantalla</string>
+    <string name="date_picker_label_day" />
+    <string name="date_picker_label_month" />
+    <string name="date_picker_label_year" />
     <string name="early_morning">Mañana</string>
-    <string name="earth_coordinate_latitude_0">13.910°E</string>
-    <string name="earth_coordinate_latitude_1">110.152°E</string>
-    <string name="earth_coordinate_latitude_2">51.100 °W</string>
-    <string name="earth_coordinate_latitude_3">20,624°E</string>
-    <string name="earth_coordinate_latitude_4">11.733°E</string>
-    <string name="earth_coordinate_longitude_0">44,767°N</string>
-    <string name="earth_coordinate_longitude_1">25,803 °N</string>
-    <string name="earth_coordinate_longitude_2">69.217 °N</string>
-    <string name="earth_coordinate_longitude_3">37,859 °N</string>
-    <string name="earth_coordinate_longitude_4">46,601 °N</string>
-    <string name="earth_position_content_0">"El Parque Natural de Cabo Kamenjak, en Croacia, es el hogar de las vistas más impresionantes a lo largo de la costa mediterránea. Sus impresionantes formaciones geológicas convierten este lugar en un paraíso para los buceadores."</string>
-    <string name="earth_position_content_1">"Los campos en terrazas son el resultado de la actividad humana, pero también sirven como un lugar excepcional para el paisaje natural.
-En China, las terrazas de arroz se encuentran principalmente al sur del río Yangtsé, donde las lluvias son comunes y las cadenas montañosas son abundantes. Las terrazas de Longji existen desde hace más de 700 años, y hay bastantes monumentos históricos en los pueblos cercanos."</string>
-    <string name="earth_position_content_2">Ilulissat se encuentra en el oeste de Groenlandia, a 200 kilómetros al norte del Círculo Ártico. El impresionante Ilulissat Icefjord, de 56 kilómetros, está situado justo al lado del glaciar Jakobshavn Isbroth. Siendo el mayor glacial del hemisferio norte, produce 2 mil millones de toneladas de helados cada año. Después de un corto desvío hacia el norte, se dirigen hacia el sur y fluyen hacia el Océano Atlántico.</string>
-    <string name="earth_position_content_3">"Navagio es una de las playas más bellas de la costa de Zakynthos, en las Islas Jónicas de Greece. Se dice que es el hogar de un famoso buque naufragado, por lo que la playa también se llama \"Cove de contrabandistos\"."</string>
-    <string name="earth_position_content_4">Los Dolomitas son una cordillera situada en el noreste de Italia, y es uno de los lugares más pintorescos de la zona.</string>
+    <string name="earth_position_content_0">El Parque Natural del Cabo de Kamenjak en Croacia alberga las vistas más impresionantes de la costa mediterránea. Impresionantes formaciones geológicas aquí convierten este lugar en un paraíso para el buzo. Cada verano, el deslumbrante sol y las cálidas aguas del Mediterráneo atraen a innumerables entusiastas del aire libre.</string>
+    <string name="earth_position_content_1">"Los campos en terrazas son el resultado de la actividad humana, pero también sirven como un lugar escénico natural sobresaliente.
+En China, las terrazas de arroz se encuentran principalmente al sur del río Yangtsé, donde las lluvias son comunes y las cadenas montañosas son abundantes. Las terrazas de Longji han existido por más de 700 años, y hay bastantes monumentos históricos en las aldeas cercanas."</string>
+    <string name="earth_position_content_2">Ilulissat se encuentra en el oeste de Groenlandia, a 200 kilómetros al norte del Círculo Polar Ártico. El magnífico fiordo de hielo Ilulissat de 56 kilómetros está situado justo al lado del glaciar Jakobshavn Isbræ. Siendo el glaciar más grande del hemisferio norte, produce 2 mil millones de toneladas de icebergs cada año. Después de un pequeño desvío hacia el norte, giran hacia el sur y desembocan en el Océano Atlántico.</string>
+    <string name="earth_position_content_3">Navagio es una de las playas más hermosas de la costa de Zakynthos, en las Islas Jónicas de Grecia. Se dice que es el hogar de un famoso naufragio, por lo que la playa también se llama \"Smugglers Cove\".</string>
+    <string name="earth_position_content_4">Los Dolomitas son una cadena montañosa ubicada en el noreste de Italia. El monte Seceda es verdaderamente uno de los lugares más pintorescos que existen.</string>
     <string name="earth_position_title_0">"Croacia
-Cabo Kamenjak"</string>
+Cabo de Kamenjak"</string>
     <string name="earth_position_title_1">"Guangxi, China
-Campos Adosados de Longji"</string>
+Campos de terrazas Longji"</string>
     <string name="earth_position_title_2">"Greenland
 Ilulissat"</string>
     <string name="earth_position_title_3">"Grecia
 Playa Navagio"</string>
-    <string name="earth_position_title_4">"Italy
-Dolomites"</string>
+    <string name="earth_position_title_4">"Italia
+Dolomitas"</string>
     <string name="earth_summary">La Tierra es la cuna de la civilización humana.</string>
     <string name="earth_super_wallpaper_label">earth</string>
     <string name="earth_title">Hogar</string>
+    <string name="empty" />
     <string name="eras_ad">d.C</string>
     <string name="eras_bc">a.C</string>
     <string name="evening">Tarde</string>
-    <string name="fmt_date_long_month_day">d MMMM</string>
-    <string name="fmt_date_long_year_month_day">d, MMMM yyyy</string>
+    <string name="fmt_chinese_date">N月e</string>
+    <string name="fmt_date">D</string>
+    <string name="fmt_date_day">d</string>
+    <string name="fmt_date_long_month">MMMM</string>
+    <string name="fmt_date_long_month_day">"d 'de' MMMM"</string>
+    <string name="fmt_date_long_year_month">"MMMM 'de' yyyy"</string>
+    <string name="fmt_date_long_year_month_day">"d 'de' MMMM 'de' yyyy"</string>
+    <string name="fmt_date_numeric_day">d</string>
+    <string name="fmt_date_numeric_month">M</string>
     <string name="fmt_date_numeric_month_day">d/M</string>
+    <string name="fmt_date_numeric_year">yyyy</string>
+    <string name="fmt_date_numeric_year_month">M/yyyy</string>
     <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
-    <string name="fmt_date_short_month_day">d MMM</string>
-    <string name="fmt_date_short_year_month_day">d, MMM yyyy</string>
+    <string name="fmt_date_short_month">MMM.</string>
+    <string name="fmt_date_short_month_day">"d 'de' MMM."</string>
+    <string name="fmt_date_short_year_month">MMM. yyyy</string>
+    <string name="fmt_date_short_year_month_day">"d 'de' MMM. yyyy"</string>
+    <string name="fmt_date_time">D T</string>
+    <string name="fmt_date_time_timezone">D T z</string>
+    <string name="fmt_date_timezone">D z</string>
+    <string name="fmt_date_year">yyyy</string>
+    <string name="fmt_time">T</string>
     <string name="fmt_time_12hour">"h 'en punto'"</string>
-    <string name="fmt_time_24hour">"HH 'en punto'"</string>
+    <string name="fmt_time_12hour_minute">h:mm</string>
+    <string name="fmt_time_12hour_minute_pm">h:mm a</string>
+    <string name="fmt_time_12hour_minute_second">h:mm:ms</string>
+    <string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
+    <string name="fmt_time_12hour_minute_second_millis_pm">h:mm:ss.S a</string>
+    <string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
+    <string name="fmt_time_12hour_pm">ha</string>
+    <string name="fmt_time_24hour">"H 'en punto'"</string>
+    <string name="fmt_time_24hour_minute">H:mm</string>
+    <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
+    <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
+    <string name="fmt_time_millis">"S'ms'"</string>
+    <string name="fmt_time_minute">"m'min'"</string>
+    <string name="fmt_time_minute_second">"m'min' s's'"</string>
+    <string name="fmt_time_minute_second_millis">"m'min' s.S's'"</string>
+    <string name="fmt_time_second">"s's'"</string>
+    <string name="fmt_time_second_millis">"s.S's'"</string>
+    <string name="fmt_time_timezone">T z</string>
+    <string name="fmt_timezone">z</string>
+    <string name="fmt_weekday">W</string>
+    <string name="fmt_weekday_date">W, D</string>
+    <string name="fmt_weekday_date_time">W, D T</string>
+    <string name="fmt_weekday_date_time_timezone">W, D T z</string>
+    <string name="fmt_weekday_date_timezone">W, D z</string>
+    <string name="fmt_weekday_long">EEEE</string>
+    <string name="fmt_weekday_short">E</string>
+    <string name="fmt_weekday_time">W T</string>
+    <string name="fmt_weekday_time_timezone">W T z</string>
+    <string name="fmt_weekday_timezone">W z</string>
     <string name="friday">Viernes</string>
     <string name="friday_short">Vie</string>
     <string name="friday_shortest">Vie</string>
     <string name="geometry_summary">Formas, luz y colores</string>
     <string name="geometry_super_wallpaper_label">Geometría</string>
     <string name="geometry_title">Geometría</string>
-    <string name="mars_coordinate_latitude_3">137,379°E</string>
-    <string name="mars_coordinate_latitude_4">303.208°E</string>
-    <string name="mars_coordinate_longitude_3">4.676°S</string>
-    <string name="mars_coordinate_longitude_4">20,953 °N</string>
-    <string name="mars_position_content_0">"This region contains cliffs, mesas, and wide flat valleys, which are believed to have been caused by debris-covered glaciers. Clay minerals have also been detected here, which are of great interest in the search for evidence of life on ancient Mars.
-
-NASA/JPL/University of Arizona"</string>
-    <string name="mars_position_content_1">"Taken when the Mars rover Curiosity is exploring the Pahrump Hills in Gale Crater. The region contains sedimentary rocks that scientists believe formed in the presence of water, and the dark areas are sand.
-
-NASA/JPL/University of Arizona"</string>
-    <string name="mars_position_content_2">"Mawrth Vallis is an ancient water outflow channel with light-colored clay-rich rocks. Clay minerals easily preserve microscopic life on Earth, so perhaps traces of ancient life may be found at Mawrth.
-
-NASA/JPL/University of Arizona"</string>
-    <string name="mars_position_content_3">"Estas imágenes fueron tomadas mientras la Curiosidad de Marte estaba explorando las colinas de Pahrump en Gale Crater. Esta región contiene rocas sedimentarias que los científicos creen formadas en presencia de agua. Áreas más oscuras son de arena.
+    <string name="mars_position_content_0">"Esta región contiene acantilados, mesetas y amplios valles planos, que se cree que fueron causados ​​por glaciares cubiertos de escombros. Aquí también se han detectado minerales arcillosos, que son de gran interés en la búsqueda de evidencia de vida en el antiguo Marte.
 
 NASA/JPL/Universidad de Arizona"</string>
-    <string name="mars_position_content_4">"Bahram Vallis es un único valle del río tronco, con muros escalonados en algunos lugares. La presencia de características erosionales en su suelo muestra que el fluido estuvo involucrado en su formación.
+    <string name="mars_position_content_1">"Tomada cuando el rover Curiosity de Marte está explorando las colinas de Pahrump en el cráter Gale. La región contiene rocas sedimentarias que los científicos creen que se formaron en presencia de agua, y las áreas oscuras son arena.
+
+NASA/JPL/Universidad de Arizona"</string>
+    <string name="mars_position_content_2">"Mawrth Vallis es un antiguo canal de salida de agua con rocas ricas en arcilla de colores claros. Los minerales arcillosos preservan fácilmente la vida microscópica en la Tierra, por lo que quizás se puedan encontrar rastros de vida antigua en Mawrth.
+
+NASA/JPL/Universidad de Arizona"</string>
+    <string name="mars_position_content_3">"Estas imágenes fueron tomadas mientras el rover de Marte Curiosity estaba explorando las colinas de Pahrump en Gale Crater. Esta región contiene rocas sedimentarias que los científicos creen que se formaron en presencia de agua. Las áreas más oscuras son arena. 
+
+NASA/ JPL/ Universidad de Arizona"</string>
+    <string name="mars_position_content_4">"Bahram Vallis es un valle de un río troncal con paredes escalonada en algunos lugares. La presencia de características erosivas aerodinámicas en su suelo muestra que algún líquido estuvo involucrado en su formación. 
 
 NASA/JPL/Universidad de Arizona"</string>
     <string name="mars_position_title_0">"Nilosyrtis
 Región Mensae"</string>
-    <string name="mars_position_title_1">Gale Crater</string>
-    <string name="mars_position_title_2">"Crater in
+    <string name="mars_position_title_1">Cráter Gale</string>
+    <string name="mars_position_title_2">"Cráter en
 Mawrth Vallis"</string>
-    <string name="mars_position_title_3">Colinas de Papúa</string>
+    <string name="mars_position_title_3">Colinas de Pahrump</string>
     <string name="mars_position_title_4">Bahram Vallis</string>
     <string name="mars_summary">Los grandes desiertos de Marte siempre han asombrado a la humanidad</string>
     <string name="mars_super_wallpaper_label">mars</string>
     <string name="mars_title">El planeta rojo</string>
-    <string name="mars_view_height_3">268.0 km</string>
-    <string name="mars_view_height_4">283,8 km</string>
-    <string name="mi_wallpaper_loading">Cargando Mi-Wallpaper…</string>
-    <string name="mi_wallpaper_title">Mi fondo de pantalla</string>
     <string name="midnight">Noche</string>
+    <string name="miuix_access_state_desc">Seleccionado</string>
     <string name="monday">Lunes</string>
     <string name="monday_short">Lun</string>
     <string name="monday_shortest">Lun</string>
@@ -150,9 +180,8 @@ Mawrth Vallis"</string>
     <string name="month_september">Septiembre</string>
     <string name="month_september_short">Sep</string>
     <string name="month_september_shortest">Sep</string>
-    <string name="moon_id">luna</string>
-    <string name="moon_summary">"El \"un pequeño paso\" de la humanidad hacia la exploración del espacio"</string>
-    <string name="moon_super_wallpaper_label">La Luna</string>
+    <string name="moon_summary">\"Un pequeño paso\" de la humanidad hacia la exploración espacial</string>
+    <string name="moon_super_wallpaper_label">La luna</string>
     <string name="moon_title">La Luna</string>
     <string name="morning">Mañana</string>
     <string name="night">Noche</string>
@@ -168,6 +197,7 @@ Mawrth Vallis"</string>
     <string name="snowmountain_summary">Laderas del monte Siguniang bañadas por el sol</string>
     <string name="snowmountain_super_wallpaper_label">Cumbres nevadas</string>
     <string name="snowmountain_title">Cumbres nevadas</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="sunday">Domingo</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom.</string>

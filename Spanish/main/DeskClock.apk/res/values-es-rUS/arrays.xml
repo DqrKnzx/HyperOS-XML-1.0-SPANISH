@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="alarm_in_furture_new_array">
-        <item>Alarma en menos de %d minuto</item>
-        <item>Alarma en %1$s</item>
-        <item>Alarma en %2$s</item>
-        <item>Alarma en %1$s %2$s</item>
-        <item>Alarma en %3$s</item>
-        <item>Alarma en %1$s %3$s</item>
-        <item>Alarma en %2$s %3$s</item>
-        <item>Alarma en %1$s %2$s %3$s</item>
+        <item>Sonará en menos de %d minuto</item>
+        <item>Sonará en %1$s</item>
+        <item>Sonará en %2$s</item>
+        <item>Sonará en %1$s %2$s</item>
+        <item>Sonará en %3$s</item>
+        <item>Sonará en %1$s %3$s</item>
+        <item>Sonará en %2$s %3$s</item>
+        <item>Sonará en %1$s, %2$s y %3$s</item>
     </string-array>
     <string-array name="alarm_repeat_type">
         <item>Una vez</item>
@@ -32,7 +32,7 @@
         <item>La alarma sonará en %3$s.</item>
         <item>La alarma sonará en %1$s y %3$s.</item>
         <item>La alarma sonará en %2$s y %3$s.</item>
-        <item>La alarma sonará en %1$s %2$s y %3$s.</item>
+        <item>La alarma sonará en %1$s, %2$s y %3$s.</item>
     </string-array>
     <string-array name="aqi_value">
         <item>Bueno</item>
@@ -48,12 +48,12 @@
         <item>Días laborables</item>
     </string-array>
     <string-array name="bedtime_guide_repeat_type_international">
-        <item>Lunes a Vie</item>
+        <item>Lun a Vie</item>
         <item>Todos los días</item>
     </string-array>
     <string-array name="bedtime_repeat_entires_international">
         <item>Todos los días</item>
-        <item>Lunes a Vie</item>
+        <item>Lun a Vie</item>
         <item>Personalizado</item>
     </string-array>
     <string-array name="bedtime_repeat_entries">
@@ -110,7 +110,7 @@
         <item>Edmonton</item>
         <item>El Salvador</item>
         <item>Fortaleza</item>
-        <item>"Saint George"</item>
+        <item>Saint George</item>
         <item>Guatemala</item>
         <item>Georgetown</item>
         <item>Halifax</item>
@@ -163,7 +163,7 @@
         <item>Bakú</item>
         <item>Bangkok</item>
         <item>Beirut</item>
-        <item>Kolkata</item>
+        <item>Calcuta</item>
         <item>Damasco</item>
         <item>Daca</item>
         <item>Dubái</item>
@@ -249,7 +249,7 @@
         <item>Sofía</item>
         <item>Estocolmo</item>
         <item>Tallin</item>
-        <item>Ciudad de Vatican</item>
+        <item>Ciudad del Vaticano</item>
         <item>Viena</item>
         <item>Vilna</item>
         <item>Varsovia</item>
@@ -311,7 +311,7 @@
         <item>Nueva Delhi</item>
         <item>Osaka</item>
         <item>Lahore</item>
-        <item>"Saná"</item>
+        <item>Saná</item>
         <item>Barcelona</item>
         <item>Múnich</item>
         <item>Milán</item>
@@ -349,11 +349,11 @@
         <item>Tegucigalpa</item>
         <item>Paramaribo</item>
         <item>Quito</item>
-        <item>Tashkent</item>
-        <item>Bishkek</item>
+        <item>Taskent</item>
+        <item>Biskek</item>
     </string-array>
     <string-array name="countries_names_miui">
-        <item>"Costa de Marfil"</item>
+        <item>Costa de Marfil</item>
         <item>Ghana</item>
         <item>Etiopía</item>
         <item>Argelia</item>
@@ -518,7 +518,7 @@
         <item>Gibraltar</item>
         <item>Finlandia</item>
         <item>Isla de Man</item>
-        <item>Türkiye</item>
+        <item>Turquía</item>
         <item>Portugal</item>
         <item>Reino Unido</item>
         <item>Luxemburgo</item>
@@ -535,7 +535,7 @@
         <item></item>
         <item>Bosnia y Herzegovina</item>
         <item></item>
-        <item>North Macedonia</item>
+        <item>Macedonia del Norte</item>
         <item>Bulgaria</item>
         <item>Suecia</item>
         <item>Estonia</item>
@@ -607,7 +607,7 @@
         <item>Italia</item>
         <item>Alemania</item>
         <item>Vietnam</item>
-        <item>Türkiye</item>
+        <item>Turquía</item>
         <item>India</item>
         <item>Brasil</item>
         <item>Sudáfrica</item>
@@ -639,8 +639,17 @@
         <item>Honduras</item>
         <item>Surinam</item>
         <item>Ecuador</item>
-        <item>Uzbekistan</item>
-        <item>Kyrgyzstan</item>
+        <item>Uzbekistán</item>
+        <item>Kirguistán</item>
+    </string-array>
+    <string-array name="time">
+        <item>%1$s</item>
+        <item>%2$s</item>
+        <item>%1$s%2$s</item>
+        <item>%3$s</item>
+        <item>%1$s%3$s</item>
+        <item>%2$s%3$s</item>
+        <item>%1$s%2$s%3$s</item>
     </string-array>
     <string-array name="timer_duration">
         <item>%1$s en total</item>

@@ -4,6 +4,6 @@
         <item>Ordenar por fecha de recepción</item>
         <item>Ordenar por cantidad de notificaciones</item>
         <item>Aplicaciones que pueden mostrar notificaciones</item>
-        <item>"Aplicaciones que no pueden mostrar notificaciones"</item>
+        <item>Aplicaciones que no pueden mostrar notificaciones</item>
     </string-array>
 </resources>
