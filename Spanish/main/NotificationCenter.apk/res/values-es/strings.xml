@@ -282,7 +282,6 @@ Xiaomi procesará el contenido de las notificaciones y mensajes (incluidos los d
     <string name="show_badge_notifications">Iconos de notificaciones</string>
     <string name="show_badge_notifications_short">Iconos</string>
     <string name="show_weather">Mostrar información del clima</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_setting">Barra de estado</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="summary_disable_float_notification">Las notificaciones flotantes no están permitidas</string>

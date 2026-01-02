@@ -763,8 +763,6 @@ no se generan en el Segundo espacio"</string>
     <string name="msc_mix_unlock_password_summary">Combina diferentes caracteres</string>
     <string name="msc_mix_unlock_password_title">Contraseña</string>
     <string name="msc_mixed_need_to_confirm">Introduce de nuevo para confirmar</string>
-    <string name="msc_mixed_password_confirmed_header_confirm">@string/msc_numeric_password_confirmed_header_confirm</string>
-    <string name="msc_mixed_password_confirmed_header_continue">@string/msc_numeric_password_confirmed_header_continue</string>
     <string name="msc_mixed_password_recording_intro_header">Introduce %1$s–%2$s caracteres</string>
     <string name="msc_mixed_pattern_entered_header">Contraseña establecida con éxito</string>
     <string name="msc_modify_password">Cambiar contraseña</string>
@@ -901,8 +899,6 @@ no se generan en el Segundo espacio"</string>
     <string name="pcl_install_app_message">%s está intentando instalar una aplicación</string>
     <string name="pcl_login_and_add_account">Añadir</string>
     <string name="pcl_mixed_need_to_confirm">Introduce de nuevo para confirmar</string>
-    <string name="pcl_mixed_password_confirmed_header_confirm">@string/pcl_numeric_password_confirmed_header_confirm</string>
-    <string name="pcl_mixed_password_confirmed_header_continue">@string/pcl_numeric_password_confirmed_header_continue</string>
     <string name="pcl_mixed_pattern_entered_header">Contraseña establecida con éxito</string>
     <string name="pcl_mixed_recording_intro_header">Introduce %1$s–%2$s caracteres</string>
     <string name="pcl_mixtype_hidepwd_icon">Ocultar</string>
@@ -939,12 +935,7 @@ no se generan en el Segundo espacio"</string>
     <string name="pcl_privacy_policy_revoke_button">Retirar</string>
     <string name="pcl_privacy_policy_revoke_message">"Si retiras tu consentimiento a la Política de Privacidad de %1$s, esto se considerará un rechazo de los servicios de %2$s.
 ¿Retirar ahora el consentimiento?"</string>
-    <string name="pcl_provision_app_control_start_title">@string/pcl_app_control_start_title</string>
     <string name="pcl_provision_bind_email_title">Añadir un correo electrónico al Control parental</string>
-    <string name="pcl_provision_control_apps_title">@string/pcl_control_apps_title</string>
-    <string name="pcl_provision_next">@string/pcl_set_password_next</string>
-    <string name="pcl_provision_set_pwd_title">@string/pcl_set_pwd_title</string>
-    <string name="pcl_provision_start">@string/pcl_guide_open_control</string>
     <string name="pcl_provision_start_desc">¡Bienvenido al Control parental! Esta aplicación puede ayudarte a administrar y monitorear el uso de los dispositivos de tus hijos y garantizar que los usen de manera segura y responsable.</string>
     <string name="pcl_provision_system_permission_declare_double_link"><Data>Lee y acepta nuestro &lt;a href=\"%1$s\">Acuerdo de Usuario&lt;/a> y nuestra &lt;a href=\"%2$s\">Política de Privacidad&lt;/a> antes de continuar.</Data></string>
     <string name="pcl_recording_inprogress">Retira el dedo al finalizar</string>

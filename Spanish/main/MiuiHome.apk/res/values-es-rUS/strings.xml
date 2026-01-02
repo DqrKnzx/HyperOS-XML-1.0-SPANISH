@@ -741,7 +741,6 @@ Seguridad mejorada."</string>
     <string name="small_window">Ventana flotante</string>
     <string name="start_activity_failed">No se pudo iniciar el launcher</string>
     <string name="start_new_window">Nueva ventana</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_recent_memory_giga">%1$s GB</string>
     <string name="status_bar_recent_memory_info1">%1$s de %2$s disponibles</string>
     <string name="status_bar_recent_memory_info2" />

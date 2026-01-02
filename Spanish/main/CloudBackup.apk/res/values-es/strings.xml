@@ -460,8 +460,6 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="other_device_main_space">Primer espacio</string>
     <string name="other_device_second_space">Segundo espacio</string>
     <string name="page_title_more_backup_options">Servicios adicionales de copia de seguridad</string>
-    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
-    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
     <string name="pc_mode_not_support_restore_warning">No se pueden restaurar elementos en el Modo PC. Desactiva el Modo PC y vuelve a intentarlo.</string>
     <string name="permission_to_use">Detalles de los permisos</string>
     <string name="pm">PM</string>

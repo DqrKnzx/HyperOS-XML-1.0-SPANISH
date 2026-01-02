@@ -176,7 +176,6 @@
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Calendario chino tradicional</string>
-    <string name="date_time_fmt">%1$s, %2$s</string>
     <string name="date_time_picker_dialog_title">Ajustar fecha y hora</string>
     <string name="date_today">" (hoy)"</string>
     <string name="date_view">Fecha</string>

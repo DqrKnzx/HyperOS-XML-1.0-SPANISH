@@ -173,7 +173,6 @@
     <string name="dynamic_weather">Tiempo</string>
     <string name="early_morning">Mañana</string>
     <string name="edit_city">Gestionar ciudades</string>
-    <string name="empty">" "</string>
     <string name="empty_view_net_loading">Actualizando…</string>
     <string name="empty_view_net_unavailable">No se pudo conectar a la red</string>
     <string name="empty_view_refresh">Inténtalo de nuevo</string>
@@ -283,7 +282,6 @@
     <string name="friday_short">Vie</string>
     <string name="friday_shortest">Vie</string>
     <string name="hourly_forcast_now">Ahora</string>
-    <string name="hourly_forecast_bottom_aqi_else">%1$s</string>
     <string name="hourly_forecast_date">d/M</string>
     <string name="index_item_experience_now">Instalar ahora</string>
     <string name="indices_title_chance_of_rain">Probabilidad de lluvia</string>
@@ -294,10 +292,7 @@
     <string name="indices_wind_direction_north">N</string>
     <string name="indices_wind_direction_south">S</string>
     <string name="indices_wind_direction_west">O</string>
-    <string name="install_progress">%1$s%%</string>
     <string name="international_details_uv_index_title">Índice UV</string>
-    <string name="item_city_list_region_no_data">-- / --</string>
-    <string name="item_city_list_temperature_no_data">--</string>
     <string name="location_provider_btn_text">Activar los servicios de localización</string>
     <string name="location_tag">Localizar</string>
     <string name="logo_accu_content">Abrir página de AccuWeather</string>
@@ -465,7 +460,6 @@
     <string name="share_button">Compartir</string>
     <string name="share_menu_title">Compartir</string>
     <string name="share_subject">Compartir</string>
-    <string name="share_weather_desc_alert">%1$s%2$s</string>
     <string name="share_weather_desc_split">,</string>
     <string name="share_weather_save_pic_fail">No se puede obtener captura de pantalla</string>
     <string name="shortcut_short_label_24_hour_forecast">Previsión de %d horas</string>

@@ -1050,7 +1050,6 @@ El/La %4$s de %3$s ha compartido el álbum de %5$s"</string>
     <string name="face_name_edit">Editar</string>
     <string name="face_name_input">Introducir nombre</string>
     <string name="face_recommend">Recomendaciones</string>
-    <string name="face_recommend_group_number">%1$d/%2$d</string>
     <string name="fail_hint">No se pudo completar la operación</string>
     <string name="fail_reason_migrate">Procesando elementos… Espera uno o dos minutos y vuelve a intentarlo.</string>
     <string name="fail_to_pick_email">Dirección de correo electrónico no válida</string>
@@ -1089,7 +1088,6 @@ disponibles"</string>
     <string name="feedback_my_reports">Comentarios</string>
     <string name="feedback_problem">Notificar un error</string>
     <string name="feedback_suggest">Enviar una sugerencia</string>
-    <string name="fileSizeSuffix">%1$s%2$s</string>
     <string name="file_cannot_print">No se puede imprimir este elemento.</string>
     <string name="file_cannot_screen_throw">No se puede emitir este elemento.</string>
     <string name="file_sending">Transfiriendo archivos…</string>
@@ -1226,7 +1224,6 @@ disponibles"</string>
     <string name="grant_permission_go_and_set">Establecer</string>
     <string name="grant_permission_go_and_set_2">Ajustes</string>
     <string name="grant_permission_go_and_set_3">Ajustes</string>
-    <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_manage_storage">Permisos requeridos</string>
     <string name="grant_permission_manage_storage_unlock">Desbloquea tu dispositivo y permite que esta aplicación acceda a todos los archivos para poder ver los elementos.</string>
     <string name="grant_permission_shortcut">Primero permite que esta aplicación cree accesos directos en la Pantalla de inicio.</string>
@@ -1270,7 +1267,6 @@ disponibles"</string>
     <string name="home_menu_magic_matting">Recortes</string>
     <string name="home_menu_photo_movie">Clip</string>
     <string name="home_menu_print">Imprimir fotos</string>
-    <string name="home_menu_trash">@string/trash_bin</string>
     <string name="home_menu_video_post">Efectos de vídeo</string>
     <string name="home_page_all_photos">Todo</string>
     <string name="home_page_camera">Cámara</string>
@@ -2034,7 +2030,6 @@ La transcodificación puede llevar algo de tiempo cuando utilizas esta función 
     <string name="people_page_photo">Miniatura de una persona</string>
     <string name="people_page_unname">Sin nombre</string>
     <string name="people_photo">Fotos con esta persona</string>
-    <string name="percent_sign">%</string>
     <string name="permission_account_desc">Para iniciar sesión y gestionar la cuenta del sistema</string>
     <string name="permission_account_name">Acceder a cuentas</string>
     <string name="permission_clipboard_desc">Para acceder y guardar elementos en el portapapeles</string>
@@ -3033,7 +3028,6 @@ La transcodificación puede llevar algo de tiempo cuando utilizas esta función 
     <string name="share_album_cancel_share">Dejar de compartir</string>
     <string name="share_album_change_background">Cambiar la imagen de fondo de pantalla</string>
     <string name="share_album_create_failed">No se pudo crear un álbum compartido</string>
-    <string name="share_album_create_processing">@string/cloud_bacup_disable_processing</string>
     <string name="share_album_exit_button_text">Dejar de compartir</string>
     <string name="share_album_exit_confirm">Si continúas, ya no podrás acceder a todos los elementos de este álbum. Guarda todos los artículos importantes antes de irte.</string>
     <string name="share_album_exit_confirm_title">¿Salir de este grupo?</string>
@@ -3124,7 +3118,6 @@ La transcodificación puede llevar algo de tiempo cuando utilizas esta función 
     <string name="share_with_family">Compartir con la familia</string>
     <string name="sharer_quota_fulfiled">Ya has compartido este álbum con el máximo número de personas posible.</string>
     <string name="show_cloud_albumlist_summary">Los nuevos elementos de los álbumes seleccionados no se cargarán en la nube después de que desactive la sincronización.</string>
-    <string name="show_cloud_albumlist_title">@string/album_cloud_list_page_title</string>
     <string name="show_hidden_album_summary">Ver y gestionar álbumes ocultos</string>
     <string name="show_hidden_album_title">Ver álbumes ocultos</string>
     <string name="show_in_other_albums_disable_toast_long_press_menu">Eliminado con éxito. Ahora puedes ver este elemento en \"Álbumes\".</string>

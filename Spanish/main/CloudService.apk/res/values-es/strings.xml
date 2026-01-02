@@ -269,8 +269,6 @@
     <string name="feedback_custom_hint">Describe aquí los problemas que has encontrado. Si estás dando sugerencias, te agradeceríamos más detalles.</string>
     <string name="find_device">Encontrar dispositivo</string>
     <string name="find_device_dspt_provision">Si pierdes tu dispositivo, puedes entrar en &lt;font color=#0097FF>%s&lt;/font> para localizarlo, bloquearlo o restablecerlo. Puedes activar o desactivar esta función en cualquier momento desde Ajustes.</string>
-    <string name="find_device_dspt_provision_2">i.mi.com</string>
-    <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
     <string name="find_device_gdpr_prompt">Al activar Encontrar dispositivo, aceptas la <a href="app://com.miui.cloudservice.gdpr.license"><u>Política de Privacidad de Xiaomi Cloud</u></a>. Para retirar tu consentimiento a la Política de Privacidad, desactiva esta función.</string>
     <string name="find_device_operation_failure_rpc">No se pudo realizar la acción debido a un error de RPC.</string>
     <string name="find_device_permissions_footer">Pulsa \"Otorgar\" para otorgar los permisos que has seleccionado.</string>

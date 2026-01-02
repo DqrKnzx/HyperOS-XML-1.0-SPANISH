@@ -1733,7 +1733,6 @@ Para obtener más información, ponte en contacto con el administrador de TI."</
     <string name="monitoring_description_personal_profile_named_vpn">Tus aplicaciones personales están conectadas a Internet a través de %1$s. Tu actividad de red, como los correos electrónicos y los datos de navegación, es visible para tu proveedor de VPN.</string>
     <string name="monitoring_description_two_named_vpns">Este dispositivo está conectado a Internet a través de %1$s y %2$s. Tu actividad de red, como los correos electrónicos y los datos de navegación, es visible para tu administrador de TI.</string>
     <string name="monitoring_description_vpn_settings">Abrir ajustes de VPN</string>
-    <string name="monitoring_description_vpn_settings_separator">" "</string>
     <string name="monitoring_financed_description_named_management">"%1$s puede acceder a los datos asociados a este dispositivo, gestionar aplicaciones y cambiar su configuración.
 
 Si tienes alguna pregunta, ponte en contacto con %2$s."</string>
@@ -2004,7 +2003,6 @@ Si tienes alguna pregunta, ponte en contacto con %2$s."</string>
     <string name="pointer_location">Ubicación del puntero</string>
     <string name="pointer_location_summary">Superpone los datos de las pulsaciones en la pantalla</string>
     <string name="popup_on_dismiss_cta_tile_text">Mantén pulsado para personalizar los widgets</string>
-    <string name="power_charging">%1$s - %2$s</string>
     <string name="power_charging_duration">%1$s - %2$s hasta la carga completa</string>
     <string name="power_charging_duration_v2">%1$s - Carga completa a las %2$s</string>
     <string name="power_charging_future_paused">%1$s ‑ Cargar</string>
@@ -2064,7 +2062,6 @@ Si tienes alguna pregunta, ponte en contacto con %2$s."</string>
     <string name="private_dns_mode_provider">Nombre de host del proveedor de DNS privado</string>
     <string name="private_dns_mode_provider_failure">No se ha podido establecer la conexión</string>
     <string name="private_dns_mode_provider_hostname_hint">Introduce el host del proveedor de DNS</string>
-    <string name="process_kernel_label">SO Android</string>
     <string name="profile_connect_timeout_subtext">No se ha podido conectar; reinicia el dispositivo</string>
     <string name="profile_info_settings_title">Información del perfil</string>
     <string name="qr_code_scanner_title">Escáner QR</string>
@@ -2513,8 +2510,6 @@ Si tienes alguna pregunta, ponte en contacto con %2$s."</string>
     <string name="status_bar_clock_date_format_12">E, d MMM</string>
     <string name="status_bar_clock_date_time_format">E, d MMM H:mm</string>
     <string name="status_bar_clock_date_time_format_12">E, d MMM h:mm a</string>
-    <string name="status_bar_clock_date_weekday_format_12_brief">@string/status_bar_clock_date_format_12</string>
-    <string name="status_bar_clock_date_weekday_format_brief">@string/status_bar_clock_date_format</string>
     <string name="status_bar_ethernet">Ethernet</string>
     <string name="status_bar_next_alarm">La alarma sonará a las %1$s</string>
     <string name="status_bar_notification_info_overflow">999+</string>

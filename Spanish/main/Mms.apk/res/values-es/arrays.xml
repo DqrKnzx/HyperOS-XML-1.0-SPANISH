@@ -23,11 +23,6 @@
         <item>Máximo</item>
         <item>2 días</item>
     </string-array>
-    <string-array name="entries_pref_key_voice_report">
-        <item>@string/voice_report_wiredon</item>
-        <item>@string/voice_report_anytime</item>
-        <item>@string/voice_report_off</item>
-    </string-array>
     <string-array name="entries_sms_validity_period">
         <item>No establecido</item>
         <item>1 hora</item>

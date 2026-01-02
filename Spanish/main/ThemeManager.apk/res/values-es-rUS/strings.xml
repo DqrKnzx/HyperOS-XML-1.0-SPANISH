@@ -451,9 +451,7 @@
     <string name="exo_download_paused_for_wifi">Esperando Wi-Fi para descargas</string>
     <string name="exo_download_removing">Quitando descargas</string>
     <string name="exo_item_list">%1$s, %2$s</string>
-    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Mono</string>
-    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_role_alternate">Alternativa</string>
     <string name="exo_track_role_closed_captions">CC</string>
     <string name="exo_track_role_commentary">Comentarios</string>
@@ -1372,7 +1370,6 @@ Te compartiremos más información cuando vuelvas a estar en línea."</string>
     <string name="resource_pack_price_info">Precio original: %1$s</string>
     <string name="resource_pack_warning">Ya ha comprado %1$d de este tema. Es más barato si compra los componentes restantes individualmente.</string>
     <string name="resource_present">Regalo</string>
-    <string name="resource_price_format">(%1$s)</string>
     <string name="resource_price_free">Gratis</string>
     <string name="resource_price_unit"> Mi Créditos</string>
     <string name="resource_purchase_common_error">Ha ocurrido un error. Vuelva a intentarlo</string>
@@ -1530,7 +1527,6 @@ Te compartiremos más información cuando vuelvas a estar en línea."</string>
     <string name="somatosensory_temperature_format">Sensación térmica %s°</string>
     <string name="special_topic">Categorias</string>
     <string name="start_all">Reanudar todo</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="still_apply">Aplicar</string>
     <string name="storage_file">Para guardar elementos descargados</string>
     <string name="submission_successfully">Enviado con éxito</string>
@@ -1702,7 +1698,6 @@ Te compartiremos más información cuando vuelvas a estar en línea."</string>
     <string name="theme_is_external_priority_storage">Guardar en la tarjeta SD</string>
     <string name="theme_is_external_priority_storage_summary">La app Temas se reiniciará inmediatamente para que surta efecto.</string>
     <string name="theme_multiple_button_title_customize">Personalizar</string>
-    <string name="theme_name">%1$s</string>
     <string name="theme_no">No</string>
     <string name="theme_on_the_phone_alert">No puede reproducirse durante las llamadas</string>
     <string name="theme_recommend">Temas similares</string>

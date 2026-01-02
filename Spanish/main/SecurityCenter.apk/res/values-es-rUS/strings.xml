@@ -1062,7 +1062,6 @@ Sin embargo, algunas de sus transacciones aún no se han completado. Para poder 
     <string name="card_main_private_space_summary">Usar el segundo espacio es como tener dos dispositivos</string>
     <string name="card_main_private_space_title">Segundo espacio</string>
     <string name="card_main_sectool_title">Herramientas</string>
-    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_video_manage_title">Gestionar videos</string>
     <string name="card_main_whatsappclean_title">Limpiador de WhatsApp</string>
     <string name="card_main_xspace_action">Crear</string>
@@ -1514,7 +1513,6 @@ Se agregará a las excepciones, pero los elementos previamente bloqueados no apa
     <string name="dynamic_performance_optimization_title">Rendimiento dinámico</string>
     <string name="early_morning">Mañana</string>
     <string name="edit_phone_num">Editar número de teléfono SIM</string>
-    <string name="ellipsis">…</string>
     <string name="email">Email</string>
     <string name="empty" />
     <string name="empty_app">Sin aplicaciones</string>
@@ -1593,9 +1591,7 @@ Se agregará a las excepciones, pero los elementos previamente bloqueados no apa
     <string name="exo_download_paused_for_wifi">Esperando Wi-Fi para descargas</string>
     <string name="exo_download_removing">Quitando descargas</string>
     <string name="exo_item_list">%1$s, %2$s</string>
-    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Mono</string>
-    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_role_alternate">Alternativa</string>
     <string name="exo_track_role_closed_captions">CC</string>
     <string name="exo_track_role_commentary">Comentarios</string>
@@ -2971,7 +2967,6 @@ Su dispositivo ahora es un %s más rápido."</string>
     <string name="menu_text_license_manager">Permisos</string>
     <string name="menu_text_networkassistants">Uso de datos</string>
     <string name="menu_text_networkassistants_danger">%s por encima del límite</string>
-    <string name="menu_text_networkassistants_data">%1$s%2$s</string>
     <string name="menu_text_networkassistants_remain">%s restantes</string>
     <string name="menu_text_networkassistants_unit_b">B</string>
     <string name="menu_text_networkassistants_unit_gb">GB</string>
@@ -2980,7 +2975,6 @@ Su dispositivo ahora es un %s más rápido."</string>
     <string name="menu_text_optimize_manage">Aumento de velocidad</string>
     <string name="menu_text_optimize_manage_1">Aumento de velocidad</string>
     <string name="menu_text_power_manager">Batería</string>
-    <string name="menu_text_power_percent_title">%s</string>
     <string name="menu_wh_remove">Eliminar de las excepciones</string>
     <string name="menu_white">Agregar a las excepciones</string>
     <string name="mi_ime_not_used">Utilice un teclado autorizado por Xiaomi</string>
@@ -3120,7 +3114,6 @@ Su dispositivo ahora es un %s más rápido."</string>
     <string name="mtrl_picker_a11y_next_month">Cambiar al mes siguiente</string>
     <string name="mtrl_picker_a11y_prev_month">Cambiar al mes anterior</string>
     <string name="mtrl_picker_announce_current_selection">Selección actual: %1$s</string>
-    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Seleccionar fecha</string>
     <string name="mtrl_picker_date_header_unselected">Fecha seleccionada</string>
@@ -4014,11 +4007,6 @@ el Ahorro de batería extremo"</string>
     <string name="power_center_dialog_msg_top">Cuando el Ahorro de batería esté activado, se realizarán las siguientes optimizaciones:</string>
     <string name="power_center_hints_scan_danger_result">Puedes solucionar problemas de batería ahora</string>
     <string name="power_center_list_item_auto_brightness">Ajustar brillo de la pantalla automáticamente</string>
-    <string name="power_center_list_item_battery_health_model_temperature">%d ℃</string>
-    <string name="power_center_list_item_battery_health_model_voltage">%s V</string>
-    <string name="power_center_list_item_battery_health_model_volume">%s mAh</string>
-    <string name="power_center_list_item_battery_status_capacity">mAh</string>
-    <string name="power_center_list_item_battery_status_temperature">℃</string>
     <string name="power_center_list_item_battery_status_time">h</string>
     <string name="power_center_list_item_close_bluetooth">Desactivar Bluetooth</string>
     <string name="power_center_list_item_deep_save_title">Ajustes avanzados</string>
@@ -4330,7 +4318,6 @@ el Ahorro de batería extremo"</string>
     <string name="pref_normal_traffic_limit">Cuando el plan de datos se agote</string>
     <string name="pref_open_adjust_traffic">Actualice el uso de datos todos los días usando las estadísticas de su compañía operadora</string>
     <string name="pref_operator_not_set">Operadora no establecida</string>
-    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_over_traffic_limit">Cuando sobrepase su plan de datos</string>
     <string name="pref_package_traffic_settings">Plan de datos</string>
     <string name="pref_physical_sim_self_detection_cat_title">Comprobar la red</string>
@@ -4667,7 +4654,6 @@ Debido a que %2$s brinda sus servicios en función de la recopilación de la inf
     <string name="private_note">Notas ocultas</string>
     <string name="private_photo">Álbum privado</string>
     <string name="private_sms">Mensajes privados</string>
-    <string name="process_kernel_label">Android</string>
     <string name="process_mediaserver_label">Servidor multimedia</string>
     <string name="process_vpnsdkmanager_label">Game Turbo</string>
     <string name="promotion">Anuncio</string>

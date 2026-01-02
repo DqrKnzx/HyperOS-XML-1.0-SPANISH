@@ -347,7 +347,6 @@ Por favor ten en cuenta que la función de mensajería por internet ahora está 
     <string name="feature_mx_summary"><b>Mensajería Mi te permite enviar mensajes a otros usuarios de Mensajería Mi a través de internet sin incurrir en gastos</b>. Se requiere enviar un mensaje SMS para activar este servicio. Tu operadora te cargará por este mensaje. Lee y acepta nuestro <font color="#B3000000"><a href="http://url1">Acuerdo de Usuario</a></font> y <font color="#B3000000"><a href="http://url2">Política de Privacidad</a></font> antes de usar esta función.</string>
     <string name="feature_smart_sms">Mensajería inteligente</string>
     <string name="feature_smart_sms_summary"><b> Mensajería inteligente proporciona reconocimiento de ID del remitente y menús inteligentes</b>. La mensajería inteligente es proporcionada en parte por Yulore. Lee y acepta la <font color="#B3000000"><a href="http://url3">Política de Privacidad</a></font> de Yulore antes de usar esta función.</string>
-    <string name="flatshow_page_no">%1$d</string>
     <string name="flight">Vuelo</string>
     <string name="fmt_chinese_date">N月e</string>
     <string name="fmt_date">D</string>
@@ -1041,7 +1040,6 @@ Este mensaje podría ser no deseado."</string>
     <string name="send_rms_editor_hints_omit">Mensajería Mi</string>
     <string name="send_sms">Enviar mensaje</string>
     <string name="send_to">Para:</string>
-    <string name="send_to_index_contact">%1$s/%2$s</string>
     <string name="sent_label">"Enviado: "</string>
     <string name="service_message_not_found">Mensaje expirado o no disponible</string>
     <string name="service_network_problem">No se pudo enviar debido a un problema con la red</string>

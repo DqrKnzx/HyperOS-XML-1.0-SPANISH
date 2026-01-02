@@ -1733,7 +1733,6 @@ Para obtener más información, comunícate con el administrador de TI."</string
     <string name="monitoring_description_personal_profile_named_vpn">Tus apps personales están conectadas a Internet mediante %1$s. El proveedor de VPN puede ver tu actividad (incluidos los correos electrónicos y los datos de navegación).</string>
     <string name="monitoring_description_two_named_vpns">Este dispositivo está conectado a Internet mediante %1$s y %2$s. El administrador de TI puede ver tu actividad de red (incluidos tus correos electrónicos y datos de navegación).</string>
     <string name="monitoring_description_vpn_settings">Abrir configuración de VPN</string>
-    <string name="monitoring_description_vpn_settings_separator">" "</string>
     <string name="monitoring_financed_description_named_management">"Es posible que %1$s pueda acceder a los datos asociados con este dispositivo, cambie la configuración y administre las apps. 
 
 Si tienes preguntas, comunícate con %2$s."</string>
@@ -2004,7 +2003,6 @@ Si tienes preguntas, comunícate con %2$s."</string>
     <string name="pointer_location">Ubicación del puntero</string>
     <string name="pointer_location_summary">Muestra los datos táctiles en la pantalla</string>
     <string name="popup_on_dismiss_cta_tile_text">Mantén presionado para personalizar los widgets</string>
-    <string name="power_charging">%1$s: %2$s</string>
     <string name="power_charging_duration">%1$s - %2$s para completar</string>
     <string name="power_charging_duration_v2">%1$s - Carga completa: %2$s</string>
     <string name="power_charging_future_paused">%1$s - Cargando</string>
@@ -2064,7 +2062,6 @@ Si tienes preguntas, comunícate con %2$s."</string>
     <string name="private_dns_mode_provider">Nombre de host del proveedor de DNS privado</string>
     <string name="private_dns_mode_provider_failure">No se pudo establecer conexión</string>
     <string name="private_dns_mode_provider_hostname_hint">Ingresa el nombre de host del proveedor de DNS</string>
-    <string name="process_kernel_label">SO Android</string>
     <string name="profile_connect_timeout_subtext">Error al establecer la conexión. Apaga el dispositivo y vuelve a encenderlo.</string>
     <string name="profile_info_settings_title">Datos del perfil</string>
     <string name="qr_code_scanner_title">Escáner de código QR</string>
@@ -2513,8 +2510,6 @@ Si tienes preguntas, comunícate con %2$s."</string>
     <string name="status_bar_clock_date_format_12">E, d MMM</string>
     <string name="status_bar_clock_date_time_format">E, d MMM H:mm</string>
     <string name="status_bar_clock_date_time_format_12">E, d MMM h:mm a</string>
-    <string name="status_bar_clock_date_weekday_format_12_brief">@string/status_bar_clock_date_format_12</string>
-    <string name="status_bar_clock_date_weekday_format_brief">@string/status_bar_clock_date_format</string>
     <string name="status_bar_ethernet">Ethernet</string>
     <string name="status_bar_next_alarm">La alarma sonará a las %1$s</string>
     <string name="status_bar_notification_info_overflow">999+</string>

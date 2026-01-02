@@ -743,7 +743,6 @@
     <string name="note_write_hint">Iniciar escritura</string>
     <string name="notealert_enter">Abrir nota</string>
     <string name="notealert_ok">Descartar</string>
-    <string name="notelist_string_info">…</string>
     <string name="notes_description_content">Notas es una aplicación del sistema. No podrá utilizar esta aplicación después de desinstalarla.</string>
     <string name="notes_description_title">¿Desinstalar Notas?</string>
     <string name="notice_for_ai_search_tips">Ver detalles</string>
